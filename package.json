@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/lexicon",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "Lexicon is a simple tool for analyzing words. It returns various properties of the word.",
   "main": "index.js",
   "scripts": {
